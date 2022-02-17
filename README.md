@@ -1,2 +1,2 @@
-# BRESENHAM
-BRESENHAM LINE DRAWING ALGORITHM
+#### BRESENHAM
+Bresenham line drawing algorithm
